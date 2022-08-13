@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prajaktagavade
-- 👀 I’m interested in Testing and Automation different applications
+- 👀 I’m interested in testing and automating different applications.
 - 🌱 I’m currently learning Cucumber Framework
 - 💞️ I’m looking to collaborate on testing projects
 - 📫 Reach me at - gavadeprajakta07@gmail.com
